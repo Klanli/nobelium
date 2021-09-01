@@ -2,10 +2,10 @@ const BLOG = {
   title: 'klanli',
   author: 'lzl',
   email: 'klanli.gogetter@gmail.com',
-  link: 'http://klanli.top',
-  description: 'This gonna be an awesome website.',
+  link: 'https://klanli.notion.site/klanli/Flutter-78de218bda48484497a0d65aa3f47b98',
+  description: 'klanli blog',
   lang: 'en-US',
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
