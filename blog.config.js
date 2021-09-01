@@ -2,7 +2,7 @@ const BLOG = {
   title: 'klanli',
   author: 'lzl',
   email: 'klanli.gogetter@gmail.com',
-  link: 'https://klanli.top',
+  link: 'https://klanli.notion.site/klanli/Flutter-78de218bda48484497a0d65aa3f47b98',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'dark', // ['light', 'dark', 'auto'],
